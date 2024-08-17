@@ -1,15 +1,16 @@
 ![MasterHead](https://camo.githubusercontent.com/d35065bba4dee546ecdd6fe59d78d6c3a4f188b17383e1ca78f0ec1f12b629d2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966)
 <h1 align="center">Hi 👋, I'm Lakshan Ranasinghe</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19875f1335f25f9c47f80e0c04dc4a91f1b969c4ee67b97579025cb16a7d953b/68747470733a2f2f7777772e76656e756578706c6f7265722e636f6d2e73672f75706c6f6164732f576f726b696e67253230696e25323070726f6772657373732e676966">
+<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/19875f1335f25f9c47f80e0c04dc4a91f1b969c4ee67b97579025cb16a7d953b/68747470733a2f2f7777772e76656e756578706c6f7265722e636f6d2e73672f75706c6f6164732f576f726b696e67253230696e25323070726f6772657373732e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshanmadushanka&label=Profile%20views&color=0e75b6&style=flat" alt="lakshanmadushanka" /> </p>
+
 - 🌱 I’m currently learning **Programming**
 
 - 📫 How to reach me **lranasinghe286@gmail.com**
 
 <div class="row">  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshanmadushanka&show_icons=true&locale=en&layout=compact" alt="lakshanmadushanka" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshanmadushanka&show_icons=true&locale=en&layout=compact" alt="lakshanmadushanka" /></p>
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
